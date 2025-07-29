@@ -1,26 +1,25 @@
 # unemployment-analysis
 This project aims to visualize and analyze unemployment trends across counties and states in the United States using historical data. By leveraging Python data science libraries (Pandas, Matplotlib, Seaborn), the project uncovers patterns influenced by economic recessions and regional disparities.
-# ðŸ“Š Visualising and Analyzing the Unemployment Rate Dataset
+# Visualising and Analyzing the Unemployment Rate Dataset
 
 This project explores and visualizes the **US Unemployment Rate** using Python, Pandas, Matplotlib, and Seaborn. It uses Google Colab as the environment and draws insights into historical trends and economic events such as recessions.
 
 ---
 
-## ðŸ“ Project Structure
+## Project Structure
 
 ```
 unemployment-analysis/
-â”œâ”€â”€ data/                 # Dataset (CSV file)
-â”œâ”€â”€ notebooks/           # Jupyter or Colab notebook (if applicable)
-â”œâ”€â”€ src/
-â”‚   â””â”€â”€ unemployment_analysis.py  # Main analysis script
-â”œâ”€â”€ figures/             # Graphs/plots (optional)
-â””â”€â”€ README.md            # Project documentation
+data/
+# Dataset (CSV file)
+notebooks/
+# Jupyter or Colab notebook (if applicable)
+src/ unemployment alysis.py  # Main analysis script figures/             # Graphs/plots (optional) README.md            # Project documentation
 ```
 
 ---
 
-## ðŸ”§ Tools & Technologies
+# Tools & Technologies
 
 - Python 3.x
 - Google Colab / Jupyter Notebook
@@ -31,7 +30,7 @@ unemployment-analysis/
 
 ---
 
-## ðŸ“‚ Dataset
+## Dataset
 
 - File: `output.csv`
 - Columns: `Year`, `Month`, `State`, `County`, `Rate` (Unemployment Rate)
@@ -39,7 +38,7 @@ unemployment-analysis/
 
 ---
 
-## ðŸ“Œ Key Features
+# Key Features
 
 - Analysis of unemployment by **county and state**
 - Visualization of unemployment trends during **recession periods**
@@ -49,15 +48,14 @@ unemployment-analysis/
 
 ---
 
-## ðŸ“Š Example Visualizations
-
-- ðŸ“ˆ Point plots of unemployment over months for key years
-- ðŸ—ºï¸ Heatmaps (if extended)
+## Example Visualizations
+- Point plots of unemployment over months for key years
+- Heatmaps (if extended)
 - ðŸ“‰ Bar chart of state appearances in dataset
 
 ---
 
-## ðŸš€ Getting Started
+## Getting Started
 
 1. Clone this repository:
    ```bash
@@ -77,7 +75,7 @@ unemployment-analysis/
 
 ---
 
-## ðŸ‘¤ Author
+# Author
 
 **Shiva Teja**  
 Diploma in Computer Science Engineering  
@@ -85,6 +83,6 @@ Pallavi Engineering College, Telangana, India
 
 ---
 
-## ðŸ“„ License
+# License
 
 This project is for academic and educational use only.
