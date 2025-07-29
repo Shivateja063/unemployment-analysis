@@ -51,7 +51,7 @@ src/ unemployment alysis.py  # Main analysis script figures/             # Graph
 ## Example Visualizations
 - Point plots of unemployment over months for key years
 - Heatmaps (if extended)
-- ðŸ“‰ Bar chart of state appearances in dataset
+- Bar chart of state appearances in dataset
 
 ---
 
